@@ -6,8 +6,7 @@ Game Designer at Venus, London. Building things in Python, TypeScript, and C# on
 
 I design F2P game systems — economy, monetization, progression. I've shipped two live titles:
 an Idle Card RPG launched in East Asia (8% paying-user rate) and a Roguelike Idle Shooter
-live since May 2026. On the side I build AI-native systems and tools that explore the edges
-of AI-assisted development.
+live since May 2026. On the side I build LLM-powered products and designer-facing tools.
 
 ## Featured projects
 
@@ -22,8 +21,8 @@ secrets. Judge/actor split, pure-code guard layer, deterministic offline mode �
 Docs public, code on request (the game is being polished for award submission).
 
 ### [Escape from Duckkov](https://github.com/suzyeth/escape-from-duckkov) <sub>(jam name: *tarduck*)</sub>
-Solo Three.js top-down extraction shooter — Cursor Vibe Jam 2026 entry, ≥90% AI-coded under
-the jam rules. 30 days · 57 commits · 5 weapons, body-part damage, grid inventory, fog-of-war.
+Solo Three.js top-down extraction shooter — Cursor Vibe Jam 2026 entry.
+30 days · 57 commits · 5 weapons, body-part damage, grid inventory, fog-of-war.
 [Play in browser](https://suzyeth.github.io/escape-from-duckkov/).
 
 ### [gridbot](https://github.com/suzyeth/gridbot)
@@ -35,7 +34,7 @@ script third-party games without app instrumentation or rooted devices. Python, 
 - **Languages**: Python · TypeScript / JavaScript · C#
 - **Engines**: Unity 2022.3+ · Three.js
 - **AI / LLM**: Claude API · multi-agent orchestration · eval harnesses & grounding checks · MCP
-- **Domains**: F2P game systems · designer- and QA-facing tooling · AI-assisted development workflows
+- **Domains**: F2P game systems · designer- and QA-facing tooling
 
 ## Find me
 
