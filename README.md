@@ -1,44 +1,15 @@
-# Hi, I'm Ziwei (Suzy) Su
+# Hi, I'm Suzy Su
 
-Game Designer at Venus, London. Building things in Python, TypeScript, and C# on the side.
-
-## What I do
-
-I design F2P game systems — economy, monetization, progression. I've shipped two live titles:
-an Idle Card RPG launched in East Asia (8% paying-user rate) and a Roguelike Idle Shooter
-live since May 2026. On the side I build LLM-powered products and designer-facing tools.
+Game designer and developer. I build games, interactive experiences, and practical tools.
 
 ## Featured projects
 
-### [hatua](https://github.com/suzyeth/hatua)
-An AI advisor that refuses to hallucinate. 7-stage drought-advisory pipeline — 5 LLM agents
-between 2 pure-code gates, with a grounding check that rejects any uncited claim and a
-fake-LLM harness for deterministic tests. React 19 + TypeScript + Zod + Claude, 14 test files.
+### [Project:IDOL](https://github.com/suzyeth/project-idol)
+An idol-management card roguelite made by a six-person team for the TapTap 21-Day Game Challenge 2026. My work focused on UI and gameplay implementation.
 
-### [Confession — architecture write-up](https://github.com/suzyeth/confession-architecture)
-Dual-LLM interrogation-game engine where a fully jailbroken actor still cannot leak locked
-secrets. Judge/actor split, pure-code guard layer, deterministic offline mode — 190 tests.
-Docs public, code on request (the game is being polished for award submission).
+[Play in browser](https://suzyeth.github.io/project-idol/en/)
 
-### [Escape from Duckkov](https://github.com/suzyeth/escape-from-duckkov) <sub>(jam name: *tarduck*)</sub>
-Solo Three.js top-down extraction shooter — Cursor Vibe Jam 2026 entry.
-30 days · 57 commits · 5 weapons, body-part damage, grid inventory, fog-of-war.
-[Play in browser](https://suzyeth.github.io/escape-from-duckkov/).
+### [Escape from Duckkov](https://github.com/suzyeth/escape-from-duckkov)
+A solo browser-based extraction shooter built with Three.js. Loot supplies, fight enemies, manage your inventory, and reach extraction before time runs out.
 
-### [gridbot](https://github.com/suzyeth/gridbot)
-Black-box Android automation toolkit for designers. ADB + PaddleOCR + YAML state graphs —
-script third-party games without app instrumentation or rooted devices. Python, MIT.
-
-## Tech I work in
-
-- **Languages**: Python · TypeScript / JavaScript · C#
-- **Engines**: Unity 2022.3+ · Three.js
-- **AI / LLM**: Claude API · multi-agent orchestration · eval harnesses & grounding checks · MCP
-- **Domains**: F2P game systems · designer- and QA-facing tooling
-
-## Find me
-
-- Portfolio: [suzyeth.github.io](https://suzyeth.github.io)
-- LinkedIn: [in/suzy99-su](https://www.linkedin.com/in/suzy99-su/)
-- Email: suzysu418@gmail.com
-- Based in London, UK
+[Play in browser](https://suzyeth.github.io/escape-from-duckkov/)
